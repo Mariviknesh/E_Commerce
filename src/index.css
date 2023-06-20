@@ -32,6 +32,14 @@ h3
   cursor: pointer;
   color:black;
 }
+.firstblock
+{
+  background-color: brown;
+}
+.outercontainer
+{
+  display: flex;
+}
 .row
 {
   display:flex;

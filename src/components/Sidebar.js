@@ -50,7 +50,6 @@ export default function Sidebar(props){
                 {totalPrice.toFixed(2)}
             </div>
             </div>
-            
             </>
         )}
     </aside>

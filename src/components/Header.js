@@ -1,8 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom';
-// import Cart from './cart.js'
-// import Content from './Content'
-// import {BrowserRouter as Router, Routes,Route} from 'react-router-dom'
+
 const Header=(props)=>{
     const {countCartItems}=props;
     return ( <header className="row block center">
